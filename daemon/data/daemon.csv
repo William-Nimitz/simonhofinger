@@ -1,0 +1,5 @@
+Script_Name,State,Controll
+storeState.php,stop,0
+storeCity.php,stop,0
+storePlz.php,stop,0
+storeEmail.php,stop,0
